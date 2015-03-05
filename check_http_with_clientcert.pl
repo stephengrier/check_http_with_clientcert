@@ -14,7 +14,7 @@
 #
 # Stephen Grier <s.grier at ucl.ac.uk>, Mar 2015.
 ###################################################################################
-use lib '/usr/local/check_http_with_clientcert';
+use lib '/usr/local/check_http_with_clientcert/lib';
 use strict;
 use LWP::UserAgent;
 use Data::Dumper;
